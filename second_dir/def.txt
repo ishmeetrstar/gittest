@@ -1,0 +1,1 @@
+this is second dir text file. first commit.
